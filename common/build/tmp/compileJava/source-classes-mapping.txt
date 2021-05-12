@@ -1,0 +1,55 @@
+domain/Game.java
+ domain.Game
+objectprotocol/ResponseError.java
+ objectprotocol.ResponseError
+interfaces/IAccountRepository.java
+ interfaces.IAccountRepository
+objectprotocol/Response.java
+ objectprotocol.Response
+objectprotocol/NewReservationMadeUpdateResponse.java
+ objectprotocol.NewReservationMadeUpdateResponse
+interfaces/IGameRepository.java
+ interfaces.IGameRepository
+objectprotocol/NewReservationSeatsNotAvailable.java
+ objectprotocol.NewReservationSeatsNotAvailable
+objectprotocol/NewReservationRequest.java
+ objectprotocol.NewReservationRequest
+objectprotocol/ResponseOK.java
+ objectprotocol.ResponseOK
+domain/Ticket.java
+ domain.Ticket
+objectprotocol/LoginRequest.java
+ objectprotocol.LoginRequest
+interfaces/IRepository.java
+ interfaces.IRepository
+observer/IObservable.java
+ observer.IObservable
+observer/IObserver.java
+ observer.IObserver
+objectprotocol/CloseRequest.java
+ objectprotocol.CloseRequest
+objectprotocol/GetAllGamesResponse.java
+ objectprotocol.GetAllGamesResponse
+domain/Account.java
+ domain.Account
+objectprotocol/proxy/ServiceProxyInClient.java
+ objectprotocol.proxy.ServiceProxyInClient
+ objectprotocol.proxy.ServiceProxyInClient$ReaderThread
+objectprotocol/Request.java
+ objectprotocol.Request
+objectprotocol/LoginResponse.java
+ objectprotocol.LoginResponse
+objectprotocol/GetAllGamesRequest.java
+ objectprotocol.GetAllGamesRequest
+service/IService.java
+ service.IService
+domain/Entity.java
+ domain.Entity
+objectprotocol/UpdateResponse.java
+ objectprotocol.UpdateResponse
+interfaces/ITicketRepository.java
+ interfaces.ITicketRepository
+service/ServiceException.java
+ service.ServiceException
+objectprotocol/proxy/ClientObjectWorker.java
+ objectprotocol.proxy.ClientObjectWorker

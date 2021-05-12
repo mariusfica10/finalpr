@@ -1,0 +1,5 @@
+rootProject.name = 'finalpr'
+include 'client'
+include 'server'
+include 'common'
+
